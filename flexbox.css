@@ -1,0 +1,9 @@
+.height{
+    height:200px;
+}
+h3{
+    text-align: center;
+}
+button, input, optgroup, select, textarea {
+    margin: 1rem;
+}
